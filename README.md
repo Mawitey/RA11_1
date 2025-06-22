@@ -2,7 +2,7 @@
 Here is link to the notebook  - https://github.com/Mawitey/RA11_1/blob/main/prompt_II%20(8).ipynb
 
 ###  Problem statement
-Here the dealership is trying to identify what factors make a car more or less expensive, Out of the given 426K car I have dropped some records with missing values to ensure clean and complete data and I am considering car prices of more than $0 prices since the project is for dealership. 
+Here the dealership is trying to identify what factors make a car more or less expensive, Out of the given 426K car I have dropped some records with missing values and I am considering car prices of more than $0 prices since the project is for dealership. 
 
 ### Results
 Based on our model, the primarly factors that influenced car prices are year and milage(odometer) because they were given in numbers. For every new car (maning increase in the year) the car price increase by $3559.52 dollars. On the other hand the milage is inversely proportional with the price meaning for every milage that increased the price decreased by 2620.68.
