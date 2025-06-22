@@ -1,5 +1,5 @@
 # What Drives the Price of a Car?
-Here is link to the notebook  - https://github.com/Mawitey/RA11_1/blob/main/prompt_II%20(8).ipynb
+Here is link to the notebook  - https://github.com/Mawitey/RA11_1/blob/main/prompt_II_(8)%20(2).ipynb
 
 ###  Problem statement
 Here the dealership is trying to identify what factors make a car more or less expensive, Out of the given 426K car I have dropped some records with missing values and I am considering car prices of more than $0 prices since the project is for dealership. 
